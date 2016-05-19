@@ -8,4 +8,4 @@ Supported controllers include all of our Customer Remote Scripts available from 
 
 This repository is for the sharing of maps made by subscribers of PrEditor
 
-For further details 
+For further details http://isotonikstudios.com/sigabort/isotonik-preditor/
